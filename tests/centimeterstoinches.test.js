@@ -12,7 +12,7 @@
 
     describe('.get()', function() {
 
-      it('returns number of centimeters for number of inches given', function() {
+      it('returns number of inches for number of centimeters given', function() {
 
         var cti = new CentimetersToInches();
         var input = 1;
