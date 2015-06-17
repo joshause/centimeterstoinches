@@ -1,7 +1,7 @@
 {
-  "name": "centimeterstoinches",
+  "name": "centimeters-to-inches",
   "title": "centimeterstoinches.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Converts centimeters to inches",
   "devDependencies": {
     "jasmine": "latest"
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "centimeters to inches",
+    "centimeters-to-inches",
     "centimeterstoinches",
     "centimeterstoinches.js",
     "centimeter to inch",
