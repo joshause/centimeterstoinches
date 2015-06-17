@@ -21,7 +21,7 @@ cti.get(1);
 (Add necessary `<script>` tag reference to `centimeterstoinches.js`)
 
 ```js
-// InchesToCentimeters is autoloaded to window.InchesToCentimeters
+// CentimetersToInches is autoloaded to window.CentimetersToInches
 var cti = new CentimetersToInches();
 cti.get(1);
 // => 0.393700787402
