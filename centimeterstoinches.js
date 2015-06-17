@@ -1,4 +1,4 @@
-// centimeterstoinches.js v1.0.0
+// centimeterstoinches.js v1.0.1
 
 (function() {
 
