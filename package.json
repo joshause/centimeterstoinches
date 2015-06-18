@@ -1,14 +1,13 @@
 {
   "name": "centimeters-to-inches",
   "title": "centimeterstoinches.js",
-  "version": "1.0.4",
+  "main": "centimeterstoinches.js",
+  "version": "1.0.6",
   "description": "Converts centimeters to inches",
   "devDependencies": {
     "jasmine": "latest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/joshause/centimeterstoinches.js.git"
+  "repository": "joshause/centimeterstoinches"
   },
   "keywords": [
     "centimeters to inches",
@@ -25,11 +24,8 @@
   "scripts": {
     "test": "jasmine tests/*.js"
   },
-  "licenses": [{
-            "type": "MIT",
-            "url": "http://www.opensource.org/licenses/MIT"
-        }],
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joshause/centimeterstoinches.js/issues"
+    "url": "https://github.com/joshause/centimeterstoinches/issues"
   }
 }
