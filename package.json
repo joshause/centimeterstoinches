@@ -7,8 +7,7 @@
   "devDependencies": {
     "jasmine": "latest"
   },
-  "repository": "joshause/centimeterstoinches"
-  },
+  "repository": "joshause/centimeterstoinches",
   "keywords": [
     "centimeters to inches",
     "centimeters-to-inches",
@@ -22,7 +21,7 @@
     "node": "*"
   },
   "scripts": {
-    "test": "jasmine tests/*.js"
+    "test": "jasmine tests/*test.js"
   },
   "license": "MIT",
   "bugs": {
