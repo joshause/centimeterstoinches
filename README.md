@@ -17,7 +17,7 @@ $ npm install centimeters-to-inches
 ### Node.js
 
 ```js
-var CentimetersToInches = require("centimeterstoinches");
+var CentimetersToInches = require("centimeters-to-inches");
 var cti = new CentimetersToInches();
 cti.get(1);
 // => 0.393700787402
